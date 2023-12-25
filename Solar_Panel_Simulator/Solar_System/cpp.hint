@@ -1,0 +1,2 @@
+#define SOLARSYSTEM_API __declspec(dllexport)
+#define SOLARSYSTEM_API __declspec(dllimport)
